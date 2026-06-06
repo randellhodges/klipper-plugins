@@ -1,7 +1,7 @@
 import logging
 import math
 
-from . import fan
+from klippy.extras import fan
 
 EVENT_INTERVAL = 1.
 SEP_1 = '='
